@@ -15,3 +15,5 @@ Dentro de la carpeta 'sql' se encuentran las consultas para la creación de la b
 Una vez que el proyecto se haya instalado correctamente, debe iniciarse desde:
 ++simiTest: npm run dev
 ++simiTest/server: npm start
+
+De igual manera la carpeta 'Web config' contiene el ejercicio relacionado a la generación del Web.config dentro de las pruebas prácticas.
